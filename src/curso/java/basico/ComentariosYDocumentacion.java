@@ -61,5 +61,7 @@ public class ComentariosYDocumentacion {
          y habria solo comentarios o documentacion para lo que si o si se necesite y se pueda entender al codigo
          o viendo solo desde la documentacion
          */
+
+        //se puede comentar para omitir codigo
     }
 }

@@ -1,5 +1,7 @@
 package curso.java.basico;
 
+import static curso.java.basico.FuncionesYParametros.holaMundo;
+
 /* Primero cuando generamos un projecto en java se nos abre la estructura de intellij
  y se nos geenera una carpeta llamada "src o sources", que es la que va a almacenar el codigo
  fuente o los archivos .java
@@ -50,5 +52,6 @@ package curso.java.basico;
 public class HolaMundo {
     public static void main(String[] args) {
         System.out.println("Hola mundo desde la clase HolaMundo");
+        holaMundo();
     }
 }

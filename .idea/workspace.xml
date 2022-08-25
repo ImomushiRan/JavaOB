@@ -4,9 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6986f50f-590b-4dba-b37a-fda433cdbaae" name="Changes" comment="Jav:EjerciciosTema2">
-      <change afterPath="$PROJECT_DIR$/src/com/java/ejercicios/EjerciciosTema3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="6986f50f-590b-4dba-b37a-fda433cdbaae" name="Changes" comment="Jav:EjerciciosTema3">
+      <change afterPath="$PROJECT_DIR$/src/com/java/ejercicios/tema4/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/java/ejercicios/tema4/SmartDevice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/java/ejercicios/tema4/SmartPhone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/java/ejercicios/tema4/SmartWatch.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -53,7 +55,7 @@
       <recent name="com.prueba" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.EjerciciosTema3">
+  <component name="RunManager" selected="Application.Main">
     <configuration name="EjerciciosTema2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.java.ejercicios.EjerciciosTema2" />
       <module name="ob-Java" />
@@ -80,12 +82,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MapMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.prueba.MapMain" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.java.ejercicios.tema4.Main" />
       <module name="ob-Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.prueba.*" />
+          <option name="PATTERN" value="com.java.ejercicios.tema4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -121,11 +123,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.EjerciciosTema3" />
         <item itemvalue="Application.EjerciciosTema2" />
         <item itemvalue="Application.ThrowMain" />
         <item itemvalue="Application.TryCatchMain" />
-        <item itemvalue="Application.MapMain" />
       </list>
     </recent_temporary>
   </component>
@@ -180,7 +182,14 @@
       <option name="project" value="LOCAL" />
       <updated>1661285188854</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Jav:EjerciciosTema3">
+      <created>1661379754939</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1661379754939</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -201,6 +210,7 @@
     <MESSAGE value="Jav:4nd commit" />
     <MESSAGE value="Jav:EjerciciosTema1" />
     <MESSAGE value="Jav:EjerciciosTema2" />
-    <option name="LAST_COMMIT_MESSAGE" value="Jav:EjerciciosTema2" />
+    <MESSAGE value="Jav:EjerciciosTema3" />
+    <option name="LAST_COMMIT_MESSAGE" value="Jav:EjerciciosTema3" />
   </component>
 </project>
